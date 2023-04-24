@@ -14,11 +14,8 @@ I am a frontend developer who enjoys working with React and is interested in var
 ## My skills
 
 ![image](https://user-images.githubusercontent.com/123166327/233979930-fc0b09b1-f059-4844-988a-cddd5b974c7b.png)
-
 ![image](https://user-images.githubusercontent.com/123166327/233977961-661ac317-95e0-44b3-b860-337762813e02.png)
-
 ![image](https://user-images.githubusercontent.com/123166327/233978458-829982a8-ec33-4a48-b28c-794500d2891b.png)
-
 ![image](https://user-images.githubusercontent.com/123166327/233978756-c17b22e2-f0d1-4222-b02f-9fcca1b8b520.png)
 
 
