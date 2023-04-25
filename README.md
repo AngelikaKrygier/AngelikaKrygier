@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Angelika Krygier 🙍‍♀️
 
-I am a frontend developer who enjoys working with React and is interested in various IT systems that support companies, including CRM, WMS, and ERP. Throughout my academic and professional journey, I have learned how these systems work, and I have desired to learn how to create them. Consequently, my fascination for programming was sparked. 🧗‍♀️🥳
+I am a frontend developer who enjoys working with React and is interested in various IT systems that support companies, such as CRM, WMS, MRP and ERP. Throughout my academic and professional journey, I have learned how these systems work, and I have desired to learn how to create them. Consequently, my fascination for programming was sparked. 🧗‍♀️🥳
 
 
-##About me 
+## About me 
 
 - 🔭 I'm currently working on a group project as part of my studies at YouCode - a programming school. 🎓🎓
 - 🌱 I'm currently training in React, Redux, Saga, Styled Components, and many other skills. 💪💪
